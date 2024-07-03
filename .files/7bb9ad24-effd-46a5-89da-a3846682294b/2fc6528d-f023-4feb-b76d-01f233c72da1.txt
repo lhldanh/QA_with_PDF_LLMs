@@ -1,4 +1,0 @@
-1! gdown "1 LBpKKXFcfvUVgyk3tgQH6YxNp1KXX0Va "
-Giải nén bộ dữ liệu vào folder datasets và xóa file nén không còn dùng đến. Các bạn thực
-thi đoạn code sau:
-15

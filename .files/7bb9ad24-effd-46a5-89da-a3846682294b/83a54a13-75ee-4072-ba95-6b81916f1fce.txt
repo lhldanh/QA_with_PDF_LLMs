@@ -1,4 +1,0 @@
-khác.
--Ưu điểm : Cân bằng tốt giữa tốc độ và độ chính xác, dễ dàng sử dụng và triển khai.
--Nhược điểm : Yêu cầu phần cứng mạnh để đạt hiệu năng tối ưu.
-5
